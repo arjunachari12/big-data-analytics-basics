@@ -1,0 +1,1 @@
+Hadoop leverages HDFS as its distributed storage foundation and combines it with distributed processing frameworks to provide a scalable, fault-tolerant, and versatile platform for storing, processing, and analyzing big data. Hadoop's architecture enables organizations to tackle a wide range of big data challenges and derive valuable insights from their data assets.
