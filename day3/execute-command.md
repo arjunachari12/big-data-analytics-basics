@@ -1,4 +1,4 @@
-Create a python file as sparksql.py
+Create a python file as sparksql.py \n
 copy the code
 cd into the directory
 execute below command
